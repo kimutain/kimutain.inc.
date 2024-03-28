@@ -1,4 +1,4 @@
-echo "# kimutain.inc." >> README.md
+echo "# kimutain" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
